@@ -1,0 +1,1 @@
+export const SERVER = 'https://front-test.beta.aviasales.ru';
